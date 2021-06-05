@@ -10,9 +10,9 @@ This is sliding-puzzle 3x3 or 4x4 with java.
 
 [shuffle]button: This button makes the puzzles set randomly.
 
-![Uploading 3x3s.jpg…]()
+![3x3s](https://user-images.githubusercontent.com/61117544/120890695-6a160780-c63f-11eb-8c65-59a3fbc4ee82.jpg)
 
-![Uploading 4x4s.jpg…]()
+![4x4s](https://user-images.githubusercontent.com/61117544/120890693-684c4400-c63f-11eb-8be9-06fd9acb51fb.jpg)
 
 If you make the puzzle perfect, "finish" toast message will be shown.
 
